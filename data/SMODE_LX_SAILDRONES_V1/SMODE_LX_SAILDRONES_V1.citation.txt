@@ -1,0 +1,1 @@
+S-MODE Team. 2022. S-MODE Temperature and Salinity from Saildrones Version 1. Ver. 1. PO.DAAC, CA, USA. Dataset accessed 2022-12-01 at https://doi.org/10.5067/SMODE-SDRON
